@@ -2,4 +2,4 @@
 
 Practice Project
 
-Link https://portfolio-website-word-press-l2fu.vercel.app/
+Link https://practice-webpage.vercel.app/
